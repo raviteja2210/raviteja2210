@@ -1,4 +1,4 @@
-# Decoration
+
 ![logo](https://github.com/raviteja2210/Decoration/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nitturi Ravi Teja</h1>
 <h3 align="center"></h3>
